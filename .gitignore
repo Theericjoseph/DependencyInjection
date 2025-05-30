@@ -1,7 +1,5 @@
 .vs
-.bin
-.obj
+bin/
+obj/
 *.user  
-/DIIntro/bin/Debug/net8.0
-/DIIntro/obj/Debug/net8.0/ref
-/DIIntro/obj/Debug/net8.0/refint
+
